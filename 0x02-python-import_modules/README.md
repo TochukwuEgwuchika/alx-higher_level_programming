@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 0x02. Python - import & modules
 ## About
 An introductory project on:
@@ -119,3 +120,6 @@ An introductory project on:
   - `str.join()`
   - any string literal
   - any system calls
+=======
+Working with python modules
+>>>>>>> 05ae79491e3dd758f24f4d7ac0cbb1253e4f0ebb
