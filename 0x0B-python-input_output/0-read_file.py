@@ -3,4 +3,4 @@ def read_file(filename=""):
         for line in f:
             print(line, end='')
 
-#read_file("my.txt")
+read_file("README.md")
